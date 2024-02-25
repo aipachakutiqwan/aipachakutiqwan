@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am deeply passionate about Artificial Intelligence topics, I implement highly available and scalable NLP and Computer Vision solutions with business impact (for privacy reasons the implementation code are not here but some public code will be published).
+I am deeply passionate about Artificial Intelligence topics, I implement scalable Natural Language Processing and Computer Vision solutions with significant business impact (while I am unable to share specific implementation code due to privacy considerations, I am committed to contributing to the community by publishing relevant public code).
 
 
 
