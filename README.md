@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m deeply passionate about Artificial Intelligence topics, I implement scalable Natural Language Processing and Computer Vision solutions with significant business impact (while I am unable to share specific implementation code due to privacy considerations, I am committed to contributing to the community by publishing relevant public code).
+- 💌  I’m deeply passionate about Artificial Intelligence topics,
+  
+- 🔭 I implement scalable Natural Language Processing and Computer Vision solutions with significant business impact (while I am unable to share specific implementation code due to privacy considerations, I am committed to contributing to the community by publishing relevant public code).
 
 - 🌱 I’m currently learning Probabilistic Graphical Models, looking to collaborate on real-world applications within this field.
 
