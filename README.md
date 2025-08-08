@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💌 I love turning complex AI concepts into real-world applications.
   
-- 🔭 I implement scalable Natural Language Processing and Computer Vision solutions with significant business impact (while I am unable to share specific implementation code due to privacy considerations, I am committed to contributing to the community by publishing relevant public code).
+- :pushpin: I implement scalable Natural Language Processing and Computer Vision solutions with significant business impact (while I am unable to share specific implementation code due to privacy considerations, I am committed to contributing to the community by publishing relevant public code).
 
 - 🌱 I’m currently learning Graph Neural Networks, looking to collaborate on real-world applications within this field.
 
